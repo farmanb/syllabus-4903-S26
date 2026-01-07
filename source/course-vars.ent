@@ -1,8 +1,8 @@
-<!ENTITY courseno "COURSE#">
-<!ENTITY sectionno "SECTION#">
-<!ENTITY term "TERM">
-<!ENTITY year "YEAR">
-<!ENTITY withdraw "Day of Week, Month, Day">
+<!ENTITY courseno "4903">
+<!ENTITY sectionno "001">
+<!ENTITY term "Spring">
+<!ENTITY year "2026">
+<!ENTITY withdraw "Friday, May 1, 2026">
 <!ENTITY honorific "<abbr>Dr.</abbr>">
 <!ENTITY firstname "Blake">
 <!ENTITY lastname "Farman">
@@ -12,6 +12,9 @@
 <!ENTITY email "bfarman@latech.edu">
 <!ENTITY website "https://blakefarman.phd">
 <!ENTITY office "Nethken 235">
-<!ENTITY book "Book Title">
-<!ENTITY edition "Nth">
-<!ENTITY ISBN "#############">
+<!ENTITY book "Ideals, Varieties, and Algorithms">
+<!ENTITY edition "5th">
+<!ENTITY ISBN "978-3-031-91840-7">
+<!ENTITY exam1 "Day of Week, Month Day">
+<!ENTITY exam2 "Day of Week, Month Day">
+<!ENTITY finalexam "Day of Week, Month Day">
