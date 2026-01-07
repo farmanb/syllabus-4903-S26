@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article [
+<!ENTITY % coursevars SYSTEM "../course-vars.ent">
+%coursevars;
+]>
+<section xml:id="evaluation" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Evaluation</title>
+
+  <xi:include href="exams.ptx"/>
+  <xi:include href="engagement.ptx"/>
+  <xi:include href="homework.ptx"/>
+  <xi:include href="quizzes.ptx"/>
+  <xi:include href="weights.ptx"/>
+  <xi:include href="grading_scale.ptx"/>
+</section>
