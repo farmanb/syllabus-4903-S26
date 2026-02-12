@@ -27,7 +27,7 @@
     </page>
   </latex>
 
-  <html favicon="simple">
+  <html favicon="simple" embed-button="yes">
     <css theme="denver" color-main="#003087"/> <!-- Tech blue main color -->
   </html>
 </publication>
