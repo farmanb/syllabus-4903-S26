@@ -3,7 +3,7 @@
   <title>Student Learning Outcomes</title>
   <p>
     By the end of this course, students will be able to:
-    <ol>
+    <ul>
       <li>
 	<p>
 	  Explain and apply the correspondence between classical affine varieties and polynomial ideals.
@@ -24,6 +24,6 @@
 	  Use Gröbner bases to analyze polynomial ideals and solve systems of polynomial equations.
 	</p>
       </li>
-    </ol>
+    </ul>
   </p>
 </subsection>
