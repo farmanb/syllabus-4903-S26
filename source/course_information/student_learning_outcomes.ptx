@@ -2,6 +2,28 @@
 <subsection xml:id="student_learning_outcomes" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Student Learning Outcomes</title>
   <p>
-    Student Learning Outcomes go here
+    By the end of this course, students will be able to:
+    <ol>
+      <li>
+	<p>
+	  Explain and apply the correspondence between classical affine varieties and polynomial ideals.
+	</p>
+      </li>
+      <li>
+	<p>
+	  State and apply fundamental results of polynomial rings, including Hilbert's <em>Basis Theorem</em> and <em>Nullstellensatz</em>.
+	</p>
+      </li>
+      <li>
+	<p>
+	  Perform computations in multivariate polynomial rings—including polynomial division, ideal membership tests, and Gröbner basis computations using computer algebra systems such as SageMath.
+	</p>
+      </li>
+      <li>
+	<p>
+	  Use Gröbner bases to analyze polynomial ideals and solve systems of polynomial equations.
+	</p>
+      </li>
+    </ol>
   </p>
 </subsection>
