@@ -2,6 +2,67 @@
 <subsection xml:id="course_topics" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Course Topics</title>
   <p>
-    Course topics go here.
+    <ul>
+      <li>
+	<p>
+	  Polynomial rings and Ideals
+	</p>
+      </li>
+      <li>
+	<p>
+	  Affine Varieties
+	</p>
+      </li>
+      <li>
+	<p>
+	  Monomial orderings
+	</p>
+      </li>
+      <li>
+	<p>
+	  Division Algorithm for Polynomials
+	</p>
+      </li>
+      <li>
+	<p>
+	  The Hilbert Basis Theorem
+	</p>
+      </li>
+      <li>
+	<p>
+	  Gröbner bases and Buchberger's Algorithm
+	</p>
+      </li>
+      <li>
+	<p>
+	  Elimination Theory
+	</p>
+      </li>
+      <li>
+	<p>
+	  Parameterization and Implicitization
+	</p>
+      </li>
+      <li>
+	<p>
+	  Envelopes
+	</p>
+      </li>
+      <li>
+	<p>
+	  Resultants
+	</p>
+      </li>
+      <li>
+	<p>
+	  Hilbert's <em>Nullstellensatz</em>
+	</p>
+      </li>
+      <li>
+	<p>
+	  The Ideal-Variety correspondence
+	</p>
+      </li>
+    </ul>
   </p>
 </subsection>
