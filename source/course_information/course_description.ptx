@@ -2,6 +2,8 @@
 <subsection xml:id="course_description" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Course Description</title>
   <p>
-    Course description goes here
+    This course is, first and foremost, an introduction to classical algebraic geometry and commutative algebra.
+    The central is to build a dictionary between the geometry of affine space and the algebra of polynomial rings, culminating in a proof of Hilbert's <em>Nullstellensatz</em>.
+    We will utilize modern computational tools, such as <url href="https://www.sagemath.org">SageMath</url> and Gröbner bases, to simplify computations and visualize the geometry of systems of polynomial equations.
   </p>
 </subsection>
