@@ -2,7 +2,7 @@
 <!ENTITY sectionno "001">
 <!ENTITY term "Spring">
 <!ENTITY year "2026">
-<!ENTITY withdraw "Friday, May 1, 2026">
+<!ENTITY withdraw "Friday, May 1">
 <!ENTITY honorific "<abbr>Dr.</abbr>">
 <!ENTITY firstname "Blake">
 <!ENTITY lastname "Farman">
@@ -15,6 +15,6 @@
 <!ENTITY book "Ideals, Varieties, and Algorithms">
 <!ENTITY edition "5th">
 <!ENTITY ISBN "978-3-031-91840-7">
-<!ENTITY exam1 "Day of Week, Month Day">
-<!ENTITY exam2 "Day of Week, Month Day">
-<!ENTITY finalexam "Day of Week, Month Day">
+<!ENTITY exam1 "Wednesday, April 15">
+<!ENTITY exam2 "Monday, May 11">
+<!ENTITY finalexam "Wednesday, May 20">
