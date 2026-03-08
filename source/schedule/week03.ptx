@@ -6,13 +6,16 @@
       <li>
         <title>March 23</title>
         <p>
-          Material
-        </p>
+          2.2 Orderings on the Monomials in <m>k[x_1, \ldots, x_n]</m>
+	</p>
+	<p>
+	  2.3 A division Algorithm in <m>k[x_1, \ldots, x_n]</m>
+	</p>
       </li>
       <li>
         <title>March 25</title>
         <p>
-          Material
+	  2.4 Monomial Ideals and Dickson's Lemma
         </p>
       </li>
     </dl>

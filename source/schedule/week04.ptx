@@ -6,14 +6,17 @@
       <li>
         <title>March 30</title>
         <p>
-          Material
+	  2.5 The Hilbert Basis Theorem and Gröbner Bases
         </p>
       </li>
       <li>
         <title>April 01</title>
         <p>
-          Material
-        </p>
+          2.6 Properties of Gröbner Bases
+	</p>
+	<p>
+	  2.7 Buchberger's Algorithm
+	</p>
       </li>
     </dl>
   </p>
